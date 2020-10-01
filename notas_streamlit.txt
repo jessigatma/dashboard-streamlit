@@ -1,0 +1,13 @@
+importar librería streamlit
+	import streamlit as st
+importar librería para gráficos
+	import plotly.express as px
+
+título 
+st.title('hola')
+se puede utilizar markdown
+st.markdown('My first streamlit dashboard!')
+
+Para escribir en el sidebar
+st.sidebar.markdown('')
+
